@@ -18,3 +18,5 @@ You're welcome to download, fork or do whatever else legal with all the files! T
 ### 1b Battle Tank Overview ###
 
 * An overview of the finished Battle Tank project.
+
+### 2 Game Design Document (GDD) ###
